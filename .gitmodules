@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:oguzok69/localization-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:oguzok69/localization-frontend.git
